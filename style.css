@@ -46,11 +46,15 @@ body {
 #main .link-row {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 2vw;
+    /* increased gap for clearer spacing between cards */
+    gap: 3rem;
+    row-gap: 3.5rem;
+    column-gap: 3rem;
     width: 100%;
     max-width: 1200px;
     margin: 2vw auto; /* center the grid */
     padding: 0 1vw;
+    align-items: start; /* prevent stretched items from visually touching */
 }
 
 /* ===== Individual Cards ===== */
@@ -64,6 +68,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     height: 100%; /* ensures all cards in row are same height */
+    margin: 0; /* rely on grid gap for spacing */
 }
 
 #main .link-card:hover {
