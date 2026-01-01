@@ -1,10 +1,11 @@
-# How-To-Learn-Programming
+# Deeruz_Learning_Path
 
-Hello I'm Deeruz, I'm writing this text while having a 3 years of programming exp.
+Hello I'm Deeruz!
 
-if you're a starter then you have to check this site before comming here: https://deeruzx.github.io/How_to_learn_programming/
+this repo is for my own Leaning Path
 
-I will gather most of the high-quality resources here:
+Link: https://deeruzx.github.io/Deeruz_Learning_Path/
 
+if you're new to programming then check out my old repo: https://deeruzx.github.io/How_to_learn_programming/
 
 <img width="1280" height="781" alt="image" src="https://github.com/user-attachments/assets/f5114c5f-dc82-4d95-b864-fe7671c7fc01" />
