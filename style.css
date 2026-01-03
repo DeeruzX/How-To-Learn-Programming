@@ -114,6 +114,10 @@ body {
         padding: 1em;
     }
 }
+ul {
+    list-style: none;
+    padding-left: 0;
+}
 /* ===== Learning Path Image ===== */
 .container-fit {
   width: 500px; /* Specific width required for object-fit to work effectively */
